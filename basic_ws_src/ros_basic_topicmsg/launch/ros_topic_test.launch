@@ -1,0 +1,4 @@
+<launch>
+  <node name="rostopic_pub_node" pkg="ros_basic_topicmsg" type="info_publisher.py" />
+  <node name="rostopic_sub_node" pkg="ros_basic_topicmsg" type="info_subscriber.py" output="screen"/>
+</launch>
