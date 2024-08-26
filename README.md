@@ -136,7 +136,7 @@ roslaunch ros_sensor_test camera_test.launch
 
 <새터미널> 
 
-rosrun hls_lfcd_lds_driver view_hlds_laser.launch
+roslaunch hls_lfcd_lds_driver view_hlds_laser.launch
 
 ## Lidar 테스트
 
