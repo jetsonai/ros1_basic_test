@@ -54,7 +54,7 @@ rqt_graph
 
 ## launch
 
-roslaunch ros_basic_topicmsg launch_test.launch
+roslaunch ros_basic_topicmsg ros_topic_test.launch 
 
 * 모든 창을 닫아주세요
 
